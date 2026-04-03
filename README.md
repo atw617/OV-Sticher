@@ -19,19 +19,17 @@ python datasets/cvt_coco_object.py PATH_TO_COCO_STUFF164K -o PATH_TO_COCO164K
 ```
 
 ## 📊Results
-| Dataset | OpenAI CLIP ViT-B/16 |
-|--------|-------------------|
-| **With background category** | 
-| VOC21 | **75.7** |
-| Context60 | **43.9** |
-| Object | **42.6** |
-| **Without background category** | 
-| VOC20 | **89.8** |
-| City | **48.1** |
-| Context59 | **48.8** |
-| ADE20K | **24.7** |
-| Stuff | **31.8** |
-| **Avg.** | **50.7** |
+| Dataset | OpenAI CLIP ViT-B/16 | OpenAI CLIP ViT-L/14 |
+|--------|-------------------|-------------------|
+| VOC21 | **75.7** | **74.0** |
+| Context60 | **43.9** | **43.4** |
+| Object | **42.6** | **46.5** |
+| VOC20 | **89.8** | **90.2** |
+| City | **48.1** | **50.6** |
+| Context59 | **48.8** | **48.6** |
+| ADE20K | **24.7** | **27.7** |
+| Stuff | **31.8** | **31.6** |
+| **Avg.** | **50.7** | **51.6** |
 
 ## Code
 Code will be released soon.

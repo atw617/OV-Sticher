@@ -1,18 +1,15 @@
 <div align="center">
 
 # OV-Stitcher: A Global Context-Aware Framework for Training-Free Open-Vocabulary Semantic Segmentation 
-<div>
-    <a href='#' target='_blank'>Seungjae Moon</a><sup></sup>&emsp;
-    <a href='#' target='_blank'>Seunghyun Oh</a><sup></sup>&emsp;
-    <a href='#' target='_blank'>Youngmin Ro</a><sup>*</sup>&emsp;
-</div>
-
-
-<div>
-    <strong>**[CVPR 2026 Findings]**</strong>
-</div>
-
-
+    <div>
+        <a href='#' target='_blank'>Seungjae Moon</a><sup></sup>&emsp;
+        <a href='#' target='_blank'>Seunghyun Oh</a><sup></sup>&emsp;
+        <a href='#' target='_blank'>Youngmin Ro</a><sup>*</sup>&emsp;
+    </div>
+    
+    <div>
+        <strong>[CVPR 2026 Findings]</strong>
+    </div>
 </div>
 
 

@@ -7,7 +7,11 @@
     <a href='#' target='_blank'>Youngmin Ro</a><sup>*</sup>&emsp;
 </div>
 
-**[CVPR 2026 Findings]**
+
+<div>
+    <strong>**[CVPR 2026 Findings]**</strong>
+</div>
+
 
 </div>
 

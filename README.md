@@ -5,15 +5,6 @@
    <img src="assets/overview.jpeg" alt="OV-Stitcehr Framework"/>
 </div>
 
-<div>
-   <img src="assets/teaser.jpeg" alt="teaser"/>
-</div>
-
-<div>
-   <img src="assets/attn_map.jpeg" alt="attn"/>
-</div>
-
-
 ## ⚙️Datasets
 `With background class`: PASCAL VOC (VOC21), PASCAL Context (PC60), and COCO Object (Object),
 
@@ -41,7 +32,7 @@ python datasets/cvt_coco_object.py PATH_TO_COCO_STUFF164K -o PATH_TO_COCO164K
 | **Avg.** | **50.7** | **51.6** |
 
 <div>
-   <img src="assets/qualitative.jpeg" alt="qualitative"/>
+   <img src="assets/qualitative.jpeg" alt="qualitative" width=100%/>
 </div>
 
 ## Code

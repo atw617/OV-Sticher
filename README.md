@@ -5,7 +5,13 @@
    <img src="assets/overview.jpeg" alt="OV-Stitcehr Framework"/>
 </div>
 
+<div>
+   <img src="assets/teaser.jpeg" alt="teaser"/>
+</div>
 
+<div>
+   <img src="assets/attn_map.jpeg" alt="attn"/>
+</div>
 
 
 ## ⚙️Datasets
@@ -35,7 +41,7 @@ python datasets/cvt_coco_object.py PATH_TO_COCO_STUFF164K -o PATH_TO_COCO164K
 | **Avg.** | **50.7** | **51.6** |
 
 <div>
-   <img src="assets/qualitative" alt="OV-Stitcehr Framework"/>
+   <img src="assets/qualitative.jpeg" alt="qualitative"/>
 </div>
 
 ## Code

@@ -19,13 +19,13 @@ python datasets/cvt_coco_object.py PATH_TO_COCO_STUFF164K -o PATH_TO_COCO164K
 ```
 
 ## 📊Results
-| Dataset | OV-Stitcher (Ours) |
+| Dataset | OpenAI CLIP ViT-B/16 |
 |--------|-------------------|
-| **With background category** | |
+| **With background category** | 
 | VOC21 | **75.7** |
 | Context60 | **43.9** |
 | Object | **42.6** |
-| **Without background category** | |
+| **Without background category** | 
 | VOC20 | **89.8** |
 | City | **48.1** |
 | Context59 | **48.8** |

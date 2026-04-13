@@ -38,6 +38,7 @@ python datasets/cvt_coco_object.py PATH_TO_COCO_STUFF164K -o PATH_TO_COCO164K
 </div>
 
 
+
 | Model | VOC21 | Context60 | Object | VOC20 | City | Context59 | ADE20K | Stuff | Avg. |
 |------|------|-----------|--------|-------|------|-----------|--------|-------|------|
 | ViT-B/16 | **75.7** | **43.9** | **42.6** | **89.8** | **48.1** | **48.8** | **24.7** | **31.8** | **50.7** |

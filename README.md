@@ -54,7 +54,7 @@ Code will be released soon.
 }
 ```
 
-## 🙏 Acknowledgement
+## 🙇‍♂️ Acknowledgement
 
 This project builds upon several excellent open-source efforts [SCLIP](https://github.com/wangf3014/SCLIP), [ProxyCLIP](https://github.com/mc-lan/ProxyCLIP), [CorrCLIP](https://github.com/zdk258/CorrCLIP), [SAM 2](https://github.com/facebookresearch/sam2).
 We sincerely thank the authors for making their work publicly available.

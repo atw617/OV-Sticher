@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🪡 OV-Stitcher: A Global Context-Aware Framework for Training-Free Open-Vocabulary Semantic Segmentation 
+# 🪡OV-Stitcher: A Global Context-Aware Framework for Training-Free Open-Vocabulary Semantic Segmentation 
 <div>
     <a href='https://scholar.google.com/citations?hl=ko&user=lwjMuSMAAAAJ' target='_blank'>Seungjae Moon</a><sup></sup>&emsp;
     <a href='#' target='_blank'>Seunghyun Oh</a><sup></sup>&emsp;
